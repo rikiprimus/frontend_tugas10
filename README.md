@@ -1,3 +1,8 @@
+# Tampilan Web
+![SS_listproduk](https://github.com/rikiprimus/frontend_tugas10/assets/34765525/77b6d205-f19b-4662-873f-419c54dc5261)
+![SS_inputproduk](https://github.com/rikiprimus/frontend_tugas10/assets/34765525/0831f66f-e796-4f5d-bc09-82b56774e9c1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
